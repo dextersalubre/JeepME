@@ -34,7 +34,7 @@ class HomeFragment : Fragment() {
                     "Punta Prinsesa - Tres de Abril - Labangon - Carlock St. - " +
                             "Taboan Market - Lakandula St. - Pasil Fish Market - " +
                             "Magallanes - USJ-R - Carbon Market - Magellan's Cross - " +
-                            "Cebu City Hall - Plaza Independencia - SM City Cebu!")
+                            "Cebu City Hall - Plaza Independencia - SM City Cebu!!")
                 startActivity(intent)
             }
         }
