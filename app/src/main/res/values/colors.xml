@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="jeepme_green">#6DAB6E</color>
+    <color name="jeepme_cream">#F5F0C8</color>
+    <color name="jeepme_beige">#F5EDD6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_dark">#1A1A1A</color>
+    <color name="text_gray">#666666</color>
+    <color name="heart_red">#E8475F</color>
+    <color name="route_badge">#1A1A1A</color>
+    <color name="card_bg">#FFFFFF</color>
+</resources>

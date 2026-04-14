@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.JeepMe" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/jeepme_green</item>
+        <item name="colorPrimaryVariant">@color/jeepme_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/jeepme_green</item>
+        <item name="android:statusBarColor">@color/jeepme_green</item>
+    </style>
+</resources>
