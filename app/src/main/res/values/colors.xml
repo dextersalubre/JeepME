@@ -8,6 +8,5 @@
     <color name="text_dark">#1A1A1A</color>
     <color name="text_gray">#666666</color>
     <color name="heart_red">#E8475F</color>
-    <color name="route_badge">#1A1A1A</color>
-    <color name="card_bg">#FFFFFF</color>
+    <color name="route_badge_black">#1A1A1A</color>
 </resources>
